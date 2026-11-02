@@ -1,35 +1,71 @@
-# Tourism Analytics using Python & Pandas
+# Tourism Analytics: Identifying High-Impact Destinations
 
 ## Project Overview
+This project analyzes international tourism data to identify
+popular destinations, understand tourism trends, and discover
+opportunities for future tourism development.
 
-This project analyzes international tourist arrivals for 2019 and 2020 using Python and Pandas.
+The project uses Excel, SQL, Python and Power BI to transform
+tourism data into meaningful insights.
 
-The analysis focuses on understanding the impact of the COVID-19 period on tourism across different countries.
+## Technologies Used
+- Microsoft Excel – Data collection and cleaning
+- SQL – Data querying and analysis
+- Python – Data analysis
+- Pandas – Data manipulation
+- Matplotlib – Data visualization
+- Power BI – Interactive dashboards
+- Jupyter Notebook – Python development
 
-## Tools & Technologies
+## Project Workflow
+1. Collected international tourist arrivals data.
+2. Cleaned and prepared the dataset using Excel.
+3. Analyzed tourism data using SQL.
+4. Performed Python analysis using Pandas.
+5. Created visualizations using Matplotlib.
+6. Developed interactive dashboards using Power BI.
+7. Identified tourism trends and development opportunities.
 
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
-- Microsoft Excel
+## Power BI Dashboard
 
-## Analysis Performed
+The dashboard contains four pages:
 
-- Top 10 countries by tourist arrivals in 2020
-- Comparison of tourist arrivals between 2019 and 2020
-- Countries with the biggest decline in tourist arrivals
-- Countries with positive tourism growth
-- Countries with the highest absolute loss in tourist arrivals
-- Overall tourism decline from 2019 to 2020
+1. Tourism Analytics Dashboard
+2. Destination Analysis
+3. Future Tourism Opportunities
+4. Tourism Recommendations
 
-## Key Result
+## Dashboard Screenshots
 
-- Total tourist arrivals in 2019: 1,900,455,200
-- Total tourist arrivals in 2020: 618,504,300
-- Overall change: -67.45%
+### Main Dashboard
+![Main Dashboard](screenshot-1.png)
 
-## Files
+### Destination Analysis
+![Destination Analysis](screenshot-2.png)
 
-- `Tourism_Analytics_Pandas.ipynb` — Complete Jupyter Notebook
-- `Tourist_Arrivals_Cleaned_New.xlsx` — Dataset used for analysis
+### Future Tourism Opportunities
+![Future Opportunities](screenshot-3.png)
+
+### Tourism Recommendations
+![Tourism Recommendations](screenshot-4.png)
+
+## Python Analysis
+
+The Python notebook focuses on comparing international
+tourist arrivals in 2019 and 2020.
+
+Key findings:
+- 2019 total arrivals: 1,900,455,200
+- 2020 total arrivals: 618,504,300
+- Overall decline: 67.45%
+
+## Project Files
+- Tourism_Analytics_Pandas.ipynb
+- Tourist_Arrivals_Cleaned_New.xlsx
+- tourism_analysis_final.sql
+- Tourism_Analytics_Dashboard.pbix
+
+## Conclusion
+This project demonstrates an end-to-end data analytics
+workflow, from data preparation and analysis to interactive
+visualization and business recommendations.
